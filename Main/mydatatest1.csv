@@ -1,0 +1,42 @@
+source,target,weight
+BI Analyst,Data Quality Analyst,3
+BI Analyst,Data Product Manager,2
+BI Analyst,Compliance Data Analyst,1
+BI Analyst,AI Engineer,3
+BI Analyst,Business Data Analyst,3
+BI Analyst,AI Research Engineer,2
+BI Analyst,Decision Scientist,2
+BI Analyst,Research Engineer,3
+BI Analyst,Data Pipeline Engineer,1
+Data Quality Analyst,Data Product Manager,2
+Data Quality Analyst,Compliance Data Analyst,1
+Data Quality Analyst,AI Engineer,3
+Data Quality Analyst,Business Data Analyst,3
+Data Quality Analyst,AI Research Engineer,2
+Data Quality Analyst,Decision Scientist,2
+Data Quality Analyst,Research Engineer,3
+Data Quality Analyst,Data Pipeline Engineer,1
+AI Research Engineer,Data Product Manager,1
+AI Research Engineer,Compliance Data Analyst,1
+AI Research Engineer,AI Engineer,2
+AI Research Engineer,Business Data Analyst,2
+AI Research Engineer,Decision Scientist,1
+AI Research Engineer,Research Engineer,2
+Research Engineer,Data Product Manager,2
+Research Engineer,Compliance Data Analyst,1
+Research Engineer,AI Engineer,3
+Research Engineer,Business Data Analyst,3
+Research Engineer,Decision Scientist,2
+Research Engineer,Data Pipeline Engineer,1
+Decision Scientist,Data Product Manager,2
+Decision Scientist,AI Engineer,2
+Decision Scientist,Business Data Analyst,2
+Decision Scientist,Data Pipeline Engineer,1
+Data Pipeline Engineer,Data Product Manager,1
+Data Pipeline Engineer,AI Engineer,1
+Data Pipeline Engineer,Business Data Analyst,1
+AI Engineer,Data Product Manager,2
+AI Engineer,Compliance Data Analyst,1
+AI Engineer,Business Data Analyst,3
+Business Data Analyst,Data Product Manager,2
+Business Data Analyst,Compliance Data Analyst,1
