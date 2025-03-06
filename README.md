@@ -5,25 +5,17 @@
 </p>
 
 <!-- Title -->
-<h1 align="center"><b>IS217.O21 - Kho Dữ Liệu Và OLAP</b></h1>
+<h1 align="center"><b>IS353.O22 - Mạng xã hội</b></h1>
 
 
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
-* **Tên đề tài**: Xây dựng kho dữ liệu cho hệ thống siêu thị Thổ Nhĩ Kỳ
-* **Số lượng thành viên**: 2
+* **Tên đề tài**: PHÂN TÍCH DỮ LIỆU CÁC NHÓM NGÀNH LIÊN QUAN ĐẾN KHOA HỌC DỮ LIỆU GIAI ĐOẠN 2020-2024
+* **Mô tả**: Đề tài sử dụng đồ thị hai phía cũng như một số thuật toán gom cụm như Kmeans, PageRank, Girvan Newman để tìm ra mối liên hệ giữa hai thuộc tính được chọn là vị trí ngành nghề cũng như mức độ kinh nghiệm đang tuyển dụng. Qua đó đưa ra được mức độ cạnh tranh giữa các nhóm ngành giúp cho những người mới bắt đầu như học sinh tốt nghiệp có nguồn thông tin hữu ích phục vụ cho quá trình tìm kiếm công việc thích hợp trong tương lai.
+* **Số lượng thành viên**: 1
 * **Ngôn ngữ lập trình**: Python
 * **Thư viện sử dụng**: Pandas, Numpy, Scikit-learn.
-* **Công cụ hỗ trợ**: PowerBI, Excel
-* **Môi trường cài đặt**: Microsoft Visual Studio 2019 (SSIS, SSAS, SSRS)
-* **Link dataset**: https://drive.google.com/drive/folders/18mX43ZO4fwEsF6ZHIfp73MnC9tJ3a46v?usp=share_link
-* **Link database**: https://drive.google.com/drive/folders/1Vy2sOTvG-VDhIMUt_vk4hpREW4zRBi_R?usp=share_link
-## THÀNH VIÊN NHÓM
-<a name="thanhvien"></a>
-| STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
-| ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
-| 1      | 21521750      | Trương Khánh Long      |[Tweek154](https://github.com/Tweek154)              |21521750@gm.uit.edu.vn   |
-| 2      | 21521819      | Hoàng Hải Anh          |[HoangHai0810](https://github.com/HoangHai0810)      |21521819@gm.uit.edu.vn   |
-
+* **Môi trường cài đặt**: Jupyter Notebook, Gephi, Excel
+  
 
 
